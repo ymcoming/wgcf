@@ -96,6 +96,9 @@ The names Cloudflare Warp and Cloudflare as well as related names, marks, emblem
 
 
 wget -o wgcf https://github.com/ViRb3/wgcf/releases/download/v2.2.2/wgcf_2.2.2_linux_amd64
+
 chmod +x ./wgcf
+
 ./wgcf register
+
 ./wgcf generate
