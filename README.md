@@ -95,7 +95,7 @@ We are not affiliated, associated, authorized, endorsed by, or in any way offici
 The names Cloudflare Warp and Cloudflare as well as related names, marks, emblems and images are registered trademarks of their respective owners.
 
 
-wget -o wgcf https://github.com/ViRb3/wgcf/releases/download/v2.2.2/wgcf_2.2.2_linux_amd64
+wget -O wgcf https://github.com/ViRb3/wgcf/releases/download/v2.2.2/wgcf_2.2.2_linux_amd64
 
 chmod +x ./wgcf
 
